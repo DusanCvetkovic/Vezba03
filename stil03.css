@@ -1,0 +1,37 @@
+body
+{
+	background-color: #C0C0C0;
+}
+
+h1
+{
+	font-size: 32px;
+	font-family: Verdana;
+}
+
+h2
+{
+	font-size: 20px;
+	color: blue;
+}
+
+p
+{
+	text-align: justify;
+	font-size: 16px;
+}
+
+span
+{
+	text-decoration: underline;
+}
+
+del
+{
+	font-style: italic;
+}
+
+code
+{
+	font-size: 12px;
+}
